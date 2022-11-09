@@ -1,0 +1,19 @@
+{
+	"id": "Imanol",
+ 	"password": "wchRP^kgd*E9eSe67D#T",
+ 	"server":
+ 	{
+ 		"ip": "127.0.0.1",
+ 		"port": "1234"
+ 	}
+ 	,
+ 		"actions": 
+ 		{
+ 				"delay": "5",
+ 				"steps": 	
+ 				[
+ 					"INCREASE 5",
+ 					"DECREASE 2"
+ 				]
+		 }
+ }

@@ -1,0 +1,21 @@
+{
+	"id": "Alessandro",
+ 	"password": "49YTEEz5UG9B7^2Nhq#S",
+ 	"server":
+ 	{
+ 		"ip": "127.0.0.1",
+ 		"port": "1234"
+ 	}
+ 	,
+ 		"actions": 
+ 		{
+ 				"delay": "5",
+ 				"steps": 	
+ 				[
+ 					"INCREASE 1",
+					"INCREASE 1",
+					"INCREASE 1",
+					"INCREASE 1"
+				]
+		 }
+ }
